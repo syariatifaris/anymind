@@ -25,6 +25,8 @@ api        | time="2020-03-11T05:59:20Z" level=info msg="starting http applicati
 
 ## API
 
+Local Environment: `http://localhost:9091`
+
 List of available endpoint
 
 - Add Balance 
