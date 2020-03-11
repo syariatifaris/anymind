@@ -7,7 +7,7 @@ Simple service to receive btc balance across timezones
 - Docker
 - docker-compose CLI
 
-##Installation
+## Installation
 
 ```bash
 #cd to directory project
